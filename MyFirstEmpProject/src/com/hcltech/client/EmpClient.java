@@ -4,6 +4,7 @@ public class EmpClient {
 
 	public static void main(String[] args) {
 		System.out.println("Hello world");
-		System.out.println("LLine 1");
+		System.out.println("Line 1");
+		System.out.println("Line 2");
 	}
 }
